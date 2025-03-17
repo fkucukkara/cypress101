@@ -22,7 +22,7 @@ Cypress 101 is a starter project to help you get up and running with Cypress for
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/cypress101.git
+git clone https://github.com/fkucukkara/cypress101.git
 cd cypress101
 npm install
 ```
