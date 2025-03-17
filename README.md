@@ -85,11 +85,3 @@ npx cypress run
 ```
 
 This will run all the tests and output the results in the terminal.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
